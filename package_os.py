@@ -17,6 +17,8 @@ from datetime import *
 #
 # print('프로그램을 종료합니다.')
 
-mod_time = os.stat('package_os').st_mtime
-print(datetime.fromtimestamp(mod_time))
+# mod_time = os.stat('package_os').st_mtime
+# print(datetime.fromtimestamp(mod_time))
 
+print(os.environ['HOME'])
+print(os.getcwd())
