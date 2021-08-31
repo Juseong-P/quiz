@@ -84,7 +84,7 @@ import argparse
 # if __name__=="__main__":
 #     main()
 
-add_mul.py 뒤 따라오는 정수들의 합을 출력한다.
+#add_mul.py 뒤 따라오는 정수들의 합을 출력한다.
 import argparse
 from functools import *
 
