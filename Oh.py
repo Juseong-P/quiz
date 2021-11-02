@@ -28,3 +28,5 @@ while chance < 10:
         break
 
 __author__ = 'Juseong Park'
+
+# this is test for merge when the same part is modifed
