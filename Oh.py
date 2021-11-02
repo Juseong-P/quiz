@@ -30,3 +30,5 @@ while chance < 10:
 __author__ = 'Juseong Park'
 
 # this is test for merge when the same part is modifed
+
+# test test test
