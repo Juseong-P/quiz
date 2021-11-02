@@ -26,3 +26,5 @@ while chance < 10:
     elif answer == user:
         print(f'축하합니다. {chance}회만에 정답을 맞췄습니다.')
         break
+
+__author__ = 'Juseong Park'
